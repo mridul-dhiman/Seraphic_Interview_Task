@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interview Task</string>
+    <string name="phone_no">Enter Phone no.</string>
+    <string name="login">Login</string>
+    <string name="next">Next</string>
+    <string name="select_gift">SELECT GIFT</string>
+    <string name="min">MIN</string>
+</resources>
